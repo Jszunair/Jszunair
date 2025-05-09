@@ -1,11 +1,15 @@
 ### 👋 Hi, I’m Zunair (Jszunair)
+👨‍💻 Web Developer specializing in HTML, CSS, Bootstrap, Tailwind CSS, React, PHP, MySQL, and leading CMS platforms including WordPress, Shopify, Wix, Webflow, and Squarespace.
 
-- 👀 I’m interested in front-end development, especially in JavaScript and React.js.
-- 🌱 Currently learning advanced JavaScript and diving deeper into React to sharpen my skills.
-- 💼 Working on projects to build practical experience and enhance my portfolio.
-- 🤝 Open to collaborating on projects that focus on front-end or creative web development.
-- 📫 Reach me at: jszunair@gmail.com
-- ⚡ Fun fact: I’m self-taught and constantly exploring new coding concepts!
+💼 Expertise in creating responsive, high-performance websites and web applications that prioritize user experience and functionality.
+
+🤝 Proven experience in collaborating on front-end and full-stack development projects, delivering high-quality solutions on time.
+
+📫 Reach me at: jszunair@gmail.com
+
+🌐 Explore my work: zunairbaloch.com/portfolio
+
+⚡ Self-taught developer, always refining my skills and exploring new technologies in web development.
 <!---
 Jszunair/Jszunair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
